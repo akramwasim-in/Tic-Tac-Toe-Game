@@ -10,7 +10,7 @@ A classic, interactive Tic-Tac-Toe game built using HTML, CSS, and Vanilla JavaS
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - HTML5: Semantic structure for game board and control buttons.
 - CSS3: Custom styling, dark background palette, and dynamic layout structure.
 - Javascript: DOM manipulation, turn management, array tracking, and pattern-checking algorithms.
